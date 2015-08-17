@@ -15,6 +15,8 @@ Upon further research of other programming languages used by Data Scientist, I n
 
 ## Python -- [Codeacademy]
 * Estimated Time Required -- 13hrs
+* Initial user name: david_110243
+* New user name: idrmiller
 * So, far as of 08/15/15 I completed 4 modules. 
-* The language reminds me of Ruby in many ways, with its ease of use and clear flow. 
-* ![Image of Initial Python Progress 4 mondules complete](https://github.com/idrmiller/learning_python/blob/master/img/Screen%20Shot%202015-08-15%20at%2010.12.06%20PM.png)
+   * The language reminds me of Ruby in many ways, with its ease of use and clear flow. 
+   * ![Image of Initial Python Progress 4 mondules complete](https://github.com/idrmiller/learning_python/blob/master/img/Screen%20Shot%202015-08-15%20at%2010.12.06%20PM.png)
