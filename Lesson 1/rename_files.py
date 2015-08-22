@@ -13,6 +13,10 @@ def rename_files () :
 
     # (2) for each file, rename filename
     for file_name in file_list:
-          os.rename(file_name, file_name.translate(None, "0123456789"))                 
+          print ("Old Name - " + file_name)
+          os.rename(file_name, file_name.translate(None, "0123456789"))
+          print ("New Name -" + file_name)
+    sorted_files = sorted(file_list)
+    print (file_list)
     os.chdir(saved_path)              
 rename_files ()
